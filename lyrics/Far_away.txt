@@ -1,4 +1,4 @@
-Verse1
+VERSE 1
 
 When did it all fall apart? / When did all fall apart?
 Did you try to change me?
@@ -10,7 +10,7 @@ Did you ever love me?
 it was so easy for you. / it was only for you
 I’m still trying to heal / I am still trying to heal
 
-Chorus
+CHORUS
 
 Far away
 I went far away
@@ -22,7 +22,8 @@ Just give me a break
 Go away
 I want to break free from you.    
 
-Verse2
+VERSE 2
+
 Saved all your pictures,
 All your messages, 
 Since the day I met you 
